@@ -102,7 +102,7 @@ El proyecto cumple con los estándares de protección de datos personales y sens
 
 ## 👨‍💻 Desarrollado por:
 
-Este proyecto es una colaboración entre colegas y amigos apasionados por la tecnología y la salud:
+Este proyecto es una colaboración entre colegas y amigos:
 
 * **Luis Venegas** – *Ingeniero de Software / Co-fundador* 
 * **Joshua Marin** – *Ingeniero de Software / Co-fundador*
